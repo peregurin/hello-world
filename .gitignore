@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Ll]ibrary/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Tt]emp/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Oo]bj/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Bb]uild/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Bb]uilds/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Ll]ogs/
+/Outscal-GameDevB3-Assignment1(UI-Buttons)/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
